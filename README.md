@@ -38,8 +38,13 @@ GitHub: https://github.com/blockersiontko/Bad-TemperatureConverter
 * fcntl.h
 * io.h
 * stdio.h
-* User input: ('std::wcin')
-* ('if') checks
+
+### Lexical Tokens
+
+| Token type   | Value     |
+|--------------|----------|
+| USER_INPUT   | std::wcin |
+| KEYWORD      | if        |
 
 ## Future updates
 
